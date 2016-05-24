@@ -1,0 +1,37 @@
+{
+  "name": "tellit",
+  "version": "0.0.1",
+  "description": "The interactive web animation framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcuringa/tellit.git"
+  },
+  "keywords": [
+    "computer",
+    "science",
+    "learning"
+  ],
+  "author": "Matt X. Curinga, Jin Kuwata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcuringa/tellit/issues"
+  },
+  "homepage": "https://github.com/mcuringa/tellit#readme",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-inject": "^4.1.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-riot": "^0.5.1",
+    "gulp-sass": "^2.3.1",
+    "gulp-webserver": "^0.9.1",
+    "node-sass": "^3.7.0",
+    "riot": "^2.4.1"
+  }
+}

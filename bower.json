@@ -1,0 +1,27 @@
+{
+  "name": "tellit",
+  "description": "The interactive web animation framework",
+  "main": "index.js",
+  "authors": [
+    "Matt X. Curinga",
+    "Jin Kuwata"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "computer",
+    "science",
+    "learning"
+  ],
+  "homepage": "https://github.com/mcuringa/tellit",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Snap.svg": "snap.svg#^0.4.1",
+    "riot": "^2.4.1"
+  }
+}
